@@ -1,5 +1,5 @@
 {
-  "name": "authguidance.basicloadtest",
+  "name": "oauth.basicloadtest",
   "version": "1.0.0",
   "description": "A simple console app to call our API concurrently for test purposes",
   "main": "index.ts",
