@@ -1,8 +1,8 @@
 # oauth.basicloadtest
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a9d34a930e0c4504a0ad0e99d1b2613b)](https://www.codacy.com/gh/gary-archer/authguidance.basicloadtest/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gary-archer/authguidance.basicloadtest&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a9d34a930e0c4504a0ad0e99d1b2613b)](https://www.codacy.com/gh/gary-archer/oauth.basicloadtest/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gary-archer/oauth.basicloadtest&amp;utm_campaign=Badge_Grade)
 
-[![Known Vulnerabilities](https://snyk.io/test/github/gary-archer/authguidance.basicloadtest/badge.svg?targetFile=package.json)](https://snyk.io/test/github/gary-archer/authguidance.basicloadtest?targetFile=package.json)
+[![Known Vulnerabilities](https://snyk.io/test/github/gary-archer/oauth.basicloadtest/badge.svg?targetFile=package.json)](https://snyk.io/test/github/gary-archer/oauth.basicloadtest?targetFile=package.json)
  
 ### Overview
 
